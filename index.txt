@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<header>
+  <link rel="stylesheet" href="style.css"/>
+  </header>
+  <body>
+<div id="columns">
+  <figure>
+  <img src="https://losko.ru/wp-content/uploads/2019/11/7702b9faef4382f33090b0b87b2c0ad0-1.jpg">
+  <figcaption>Звёздная ночь — Винсент ван Гог</figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://losko.ru/wp-content/uploads/2019/11/cover-1.jpg">
+  <figcaption>Девушка с жемчужной серёжкой — Ян Вермеер</figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://static.kulturologia.ru/files/u18214/RomanticPaintingsofLovers0_0.jpg">
+  <figcaption>Влюбленные — Рене Магритт </figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://static.kulturologia.ru/files/u18214/RomanticPaintingsofLovers.jpg">
+  <figcaption>Поцелуй — Густав Климт</figcaption>
+  </figure>
+  
+   <figure>
+   <img src="https://evg-crystal.ru/800/600/http/cameralabs.org/media/lab16/post/01-16/19/Samye-strannye-kartiny_1.jpg">
+  <figcaption>Крик — Эдвард Мунк </figcaption>
+  </figure>
+  
+   <figure>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/250px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg">
+  <figcaption>Мона Лиза — Леонардо да Винчи</figcaption>
+  </figure>
+ 
+  <figure>
+  <img src="https://arthive.net/res/media/img/oy800/work/4a2/162019@2x.jpg">
+  <figcaption>Рождение Венеры — Сандро Боттичелли</figcaption>
+  </figure> 
+  
+   <figure>
+  <img src="https://arts-dnevnik.ru/wp-content/uploads/2017/06/IMG_4214.jpg">
+  <figcaption>Вавилонская башня — Питер Брейгель</figcaption>
+  </figure>
+  
+    <figure>
+  <img src="https://foxtime.ru/wp-content/uploads/2019/12/11-6.jpg">
+    <figcaption>Американская готика — Грант Вуд</figcaption>
+  </figure> 
+  <small>Art &copy; <a href="//clairehummel.com">Viktoriya Buryakova</a></small>
+  </div>
+</body>
+</html>
